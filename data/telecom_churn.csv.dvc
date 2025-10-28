@@ -1,0 +1,5 @@
+outs:
+- md5: 44eff16f552ead34cd70ed93d29fcd2a
+  size: 134566
+  hash: md5
+  path: telecom_churn.csv
