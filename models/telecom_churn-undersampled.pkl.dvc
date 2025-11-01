@@ -1,0 +1,5 @@
+outs:
+- md5: 462bffecb9d10de2f008acfb7bb3ddc8
+  size: 1407
+  hash: md5
+  path: telecom_churn-undersampled.pkl
